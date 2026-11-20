@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Laporan celah keamanan (privat)
+    url: https://github.com/en1gma-workspace/si-administrator-rilis/security/advisories/new
+    about: Jangan laporkan celah keamanan lewat issue publik.
+  - name: Unduh installer dan panduan
+    url: https://github.com/en1gma-workspace/si-administrator-rilis/releases
+    about: Installer resmi, paket update, dan panduan pemakaian.

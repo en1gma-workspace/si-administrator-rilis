@@ -1,0 +1,94 @@
+si administrator
+Hak Cipta (c) 2026 en1gma-workspace. Seluruh hak dilindungi undang-undang.
+Copyright (c) 2026 en1gma-workspace. All rights reserved.
+
+================================================================================
+LISENSI PERANGKAT LUNAK PROPRIETARY (BAHASA INDONESIA)
+================================================================================
+
+1. Kepemilikan. Perangkat lunak si administrator, termasuk kode sumber, kode
+   objek, antarmuka, desain, dokumentasi, dan bahan visualnya ("Perangkat
+   Lunak"), adalah milik en1gma-workspace dan dilindungi hukum hak cipta.
+   Lisensi ini tidak mengalihkan kepemilikan apa pun.
+
+2. Kode sumber. Kode sumber bersifat rahasia. Tanpa izin tertulis dari
+   en1gma-workspace, Anda tidak boleh menyalin, mengubah, menerjemahkan,
+   menggabungkan, menerbitkan, menyebarkan, mensublisensikan, atau menjual kode
+   sumber, seluruhnya maupun sebagian.
+
+3. Pemakaian program. Program jadi (installer dan paket update resmi) boleh
+   dipasang dan dipakai oleh lembaga yang menerimanya langsung dari
+   en1gma-workspace atau dari kanal rilis resminya, untuk keperluan
+   administrasi lembaga itu sendiri, sesuai ketentuan yang diberikan
+   en1gma-workspace kepada lembaga tersebut.
+
+4. Larangan. Anda tidak boleh: (a) membongkar, mendekompilasi, atau merekayasa
+   balik Perangkat Lunak, kecuali sejauh diizinkan undang-undang yang berlaku;
+   (b) menghapus atau mengubah pemberitahuan hak cipta dan merek; (c) menyewakan,
+   menjual kembali, atau menyebarkan Perangkat Lunak kepada pihak lain tanpa izin
+   tertulis; (d) membuat atau menyebarkan paket update yang mengaku resmi.
+
+5. Komponen pihak ketiga. Perangkat Lunak memuat komponen pihak ketiga yang
+   tunduk pada lisensinya masing-masing (lihat THIRD-PARTY-NOTICES.md). Lisensi
+   ini tidak membatasi hak yang diberikan lisensi komponen tersebut.
+
+6. Data. Data yang dimasukkan pengguna tetap milik lembaga pengguna dan
+   tersimpan di komputer pengguna. Perangkat Lunak tidak mengirim data ke luar.
+
+7. Tanpa jaminan. Perangkat Lunak disediakan "sebagaimana adanya" tanpa jaminan
+   apa pun, tersurat maupun tersirat. Sejauh diizinkan hukum, en1gma-workspace
+   tidak bertanggung jawab atas kerugian yang timbul dari pemakaian Perangkat
+   Lunak, termasuk kehilangan data. Pengguna bertanggung jawab membuat cadangan.
+
+8. Pengakhiran. Lisensi berakhir otomatis bila ketentuan ini dilanggar. Setelah
+   berakhir, Anda wajib berhenti memakai dan menghapus semua salinan.
+
+9. Hukum yang berlaku. Lisensi ini tunduk pada hukum Republik Indonesia.
+
+Izin di luar ketentuan ini dapat diajukan kepada en1gma-workspace.
+
+================================================================================
+PROPRIETARY SOFTWARE LICENSE (ENGLISH)
+================================================================================
+
+1. Ownership. The si administrator software, including its source code, object
+   code, interface, design, documentation, and visual assets (the "Software"),
+   is owned by en1gma-workspace and protected by copyright law. This license
+   does not transfer any ownership.
+
+2. Source code. The source code is confidential. Without prior written
+   permission from en1gma-workspace you may not copy, modify, translate, merge,
+   publish, distribute, sublicense, or sell the source code, in whole or in part.
+
+3. Use of the program. The compiled program (installers and official update
+   packages) may be installed and used by an institution that received it
+   directly from en1gma-workspace or from its official release channel, for
+   that institution's own administration, under the terms en1gma-workspace
+   provides to that institution.
+
+4. Restrictions. You may not: (a) disassemble, decompile, or reverse engineer
+   the Software, except to the extent permitted by applicable law; (b) remove or
+   alter copyright or trademark notices; (c) rent, resell, or distribute the
+   Software to third parties without written permission; (d) create or
+   distribute update packages that claim to be official.
+
+5. Third-party components. The Software includes third-party components
+   governed by their own licenses (see THIRD-PARTY-NOTICES.md). This license
+   does not limit the rights granted by those licenses.
+
+6. Data. Data entered by users remains the property of the using institution
+   and is stored on the user's computer. The Software does not transmit data
+   externally.
+
+7. No warranty. The Software is provided "as is", without warranty of any kind,
+   express or implied. To the extent permitted by law, en1gma-workspace is not
+   liable for any damages arising from use of the Software, including data
+   loss. Users are responsible for making backups.
+
+8. Termination. This license terminates automatically upon breach. Upon
+   termination you must stop using and delete all copies.
+
+9. Governing law. This license is governed by the laws of the Republic of
+   Indonesia.
+
+Permissions beyond these terms may be requested from en1gma-workspace.

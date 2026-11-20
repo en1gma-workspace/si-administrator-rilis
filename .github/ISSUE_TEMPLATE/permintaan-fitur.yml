@@ -1,0 +1,35 @@
+name: Permintaan fitur / Feature request
+description: Usulkan fitur baru atau perubahan untuk lembaga Anda.
+title: "[Fitur] "
+labels: ["usulan"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fitur yang khusus untuk satu lembaga bisa dikerjakan sebagai update kustom. Jelaskan kebutuhannya di bawah.
+  - type: textarea
+    id: masalah
+    attributes:
+      label: Kebutuhan atau masalah
+      description: Apa yang ingin dicapai, dan apa yang sulit dilakukan sekarang?
+    validations:
+      required: true
+  - type: textarea
+    id: usulan
+    attributes:
+      label: Usulan
+      description: Bagaimana sebaiknya fitur ini bekerja? Contoh dokumen atau format yang biasa dipakai sangat membantu.
+    validations:
+      required: true
+  - type: dropdown
+    id: cakupan
+    attributes:
+      label: Untuk siapa
+      options: ["Semua lembaga", "Hanya lembaga kami (update kustom)", "Belum tahu"]
+    validations:
+      required: true
+  - type: textarea
+    id: lampiran
+    attributes:
+      label: Lampiran
+      description: Contoh formulir, rapor, kuitansi, atau tangkapan layar.

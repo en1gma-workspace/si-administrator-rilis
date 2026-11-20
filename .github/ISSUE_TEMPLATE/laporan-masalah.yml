@@ -1,0 +1,58 @@
+name: Laporan masalah / Bug report
+description: Sesuatu tidak berjalan sebagaimana mestinya.
+title: "[Masalah] "
+labels: ["masalah"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Terima kasih sudah melapor. Jangan sertakan data pribadi santri (nama lengkap, NIK, alamat) di laporan ini.
+        Untuk celah keamanan, gunakan laporan privat (lihat SECURITY.md).
+  - type: input
+    id: versi
+    attributes:
+      label: Versi aplikasi
+      description: Terlihat di bilah bawah aplikasi, misalnya "Versi 6.6.6".
+      placeholder: "6.6.6"
+    validations:
+      required: true
+  - type: dropdown
+    id: arsitektur
+    attributes:
+      label: Jenis installer
+      options: ["x64 (64-bit)", "x86 (32-bit)", "ARM64", "Tidak tahu"]
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows
+      options: ["Windows 11", "Windows 10", "Lainnya"]
+    validations:
+      required: true
+  - type: input
+    id: halaman
+    attributes:
+      label: Halaman atau menu
+      placeholder: "Keuangan & Aset > Keuangan Santri"
+  - type: textarea
+    id: langkah
+    attributes:
+      label: Langkah untuk mengulang
+      placeholder: |
+        1. Buka ...
+        2. Klik ...
+        3. Muncul ...
+    validations:
+      required: true
+  - type: textarea
+    id: harapan
+    attributes:
+      label: Yang diharapkan dan yang terjadi
+    validations:
+      required: true
+  - type: textarea
+    id: lampiran
+    attributes:
+      label: Tangkapan layar atau video
+      description: Seret berkas ke sini. Samarkan data pribadi.
