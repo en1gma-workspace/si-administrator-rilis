@@ -17,32 +17,34 @@ Berkas ini dibuat otomatis oleh `go run ./alat/lisensi`; jangan disunting manual
 
 ## Modul Go
 
-| Modul | Versi |
-|---|---|
-| github.com/dustin/go-humanize | v1.1.0 |
-| github.com/jchv/go-webview2 | v0.0.0-20260205173254-56598839c808 |
-| github.com/jchv/go-winloader | v0.0.0-20250406163304-c1995be93bd1 |
-| github.com/mattn/go-isatty | v0.0.24 |
-| github.com/ncruces/go-strftime | v1.1.0 |
-| github.com/remyoudompheng/bigfft | v0.0.0-20230129092748-24d4a6f8daec |
-| github.com/richardlehane/mscfb | v1.0.9 |
-| github.com/richardlehane/msoleps | v1.0.6 |
-| github.com/tiendc/go-deepcopy | v1.7.2 |
-| github.com/xuri/efp | v0.0.3-0.20260924042702-217b81952dec |
-| github.com/xuri/excelize/v2 | v2.11.1 |
-| github.com/xuri/nfp | v0.0.2-0.20250530014748-2ddeb826f9a9 |
-| golang.org/x/crypto | v0.58.0 |
-| golang.org/x/net | v0.62.0 |
-| golang.org/x/sys | v0.49.0 |
-| golang.org/x/text | v0.43.0 |
-| modernc.org/libc | v1.80.1 |
-| modernc.org/mathutil | v1.7.1 |
-| modernc.org/memory | v1.12.1 |
-| modernc.org/sqlite | v1.62.0 |
+Versi persis tiap modul tercatat di go.mod dan go.sum.
+
+| Modul |
+|---|
+| github.com/dustin/go-humanize |
+| github.com/jchv/go-webview2 |
+| github.com/jchv/go-winloader |
+| github.com/mattn/go-isatty |
+| github.com/ncruces/go-strftime |
+| github.com/remyoudompheng/bigfft |
+| github.com/richardlehane/mscfb |
+| github.com/richardlehane/msoleps |
+| github.com/tiendc/go-deepcopy |
+| github.com/xuri/efp |
+| github.com/xuri/excelize/v2 |
+| github.com/xuri/nfp |
+| golang.org/x/crypto |
+| golang.org/x/net |
+| golang.org/x/sys |
+| golang.org/x/text |
+| modernc.org/libc |
+| modernc.org/mathutil |
+| modernc.org/memory |
+| modernc.org/sqlite |
 
 ---
 
-### github.com/dustin/go-humanize v1.1.0
+### github.com/dustin/go-humanize
 
 Berkas: `LICENSE`
 
@@ -72,7 +74,7 @@ SOFTWARE.
 
 ---
 
-### github.com/jchv/go-webview2 v0.0.0-20260205173254-56598839c808
+### github.com/jchv/go-webview2
 
 Berkas: `LICENSE`
 
@@ -103,7 +105,7 @@ SOFTWARE.
 
 ---
 
-### github.com/jchv/go-winloader v0.0.0-20250406163304-c1995be93bd1
+### github.com/jchv/go-winloader
 
 Berkas: `LICENSE.md`
 
@@ -119,7 +121,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 ---
 
-### github.com/mattn/go-isatty v0.0.24
+### github.com/mattn/go-isatty
 
 Berkas: `LICENSE`
 
@@ -137,7 +139,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-### github.com/ncruces/go-strftime v1.1.0
+### github.com/ncruces/go-strftime
 
 Berkas: `LICENSE`
 
@@ -167,7 +169,7 @@ SOFTWARE.
 
 ---
 
-### github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec
+### github.com/remyoudompheng/bigfft
 
 Berkas: `LICENSE`
 
@@ -203,7 +205,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### github.com/richardlehane/mscfb v1.0.9
+### github.com/richardlehane/mscfb
 
 Berkas: `LICENSE.txt`
 
@@ -413,7 +415,7 @@ Apache License
 
 ---
 
-### github.com/richardlehane/msoleps v1.0.6
+### github.com/richardlehane/msoleps
 
 Berkas: `LICENSE.txt`
 
@@ -623,7 +625,7 @@ Apache License
 
 ---
 
-### github.com/tiendc/go-deepcopy v1.7.2
+### github.com/tiendc/go-deepcopy
 
 Berkas: `LICENSE`
 
@@ -653,7 +655,7 @@ SOFTWARE.
 
 ---
 
-### github.com/xuri/efp v0.0.3-0.20260924042702-217b81952dec
+### github.com/xuri/efp
 
 Berkas: `LICENSE`
 
@@ -690,7 +692,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### github.com/xuri/excelize/v2 v2.11.1
+### github.com/xuri/excelize/v2
 
 Berkas: `LICENSE`
 
@@ -729,7 +731,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### github.com/xuri/nfp v0.0.2-0.20250530014748-2ddeb826f9a9
+### github.com/xuri/nfp
 
 Berkas: `LICENSE`
 
@@ -766,7 +768,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### golang.org/x/crypto v0.58.0
+### golang.org/x/crypto
 
 Berkas: `LICENSE`
 
@@ -802,7 +804,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### golang.org/x/net v0.62.0
+### golang.org/x/net
 
 Berkas: `LICENSE`
 
@@ -838,7 +840,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### golang.org/x/sys v0.49.0
+### golang.org/x/sys
 
 Berkas: `LICENSE`
 
@@ -874,7 +876,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### golang.org/x/text v0.43.0
+### golang.org/x/text
 
 Berkas: `LICENSE`
 
@@ -910,7 +912,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### modernc.org/libc v1.80.1
+### modernc.org/libc
 
 Berkas: `LICENSE`
 
@@ -946,7 +948,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### modernc.org/mathutil v1.7.1
+### modernc.org/mathutil
 
 Berkas: `LICENSE`
 
@@ -982,7 +984,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### modernc.org/memory v1.12.1
+### modernc.org/memory
 
 Berkas: `LICENSE`
 
@@ -1018,7 +1020,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-### modernc.org/sqlite v1.62.0
+### modernc.org/sqlite
 
 Berkas: `LICENSE`
 
