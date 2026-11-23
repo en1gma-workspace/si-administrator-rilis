@@ -10,7 +10,7 @@
 ## Melaporkan celah keamanan
 
 Jangan laporkan celah keamanan lewat issue publik. Gunakan **Security → Report a vulnerability** di repositori
-[si-administrator-rilis](https://github.com/en1gma-workspace/si-administrator-rilis/security/advisories/new)
+[si-administrator-rilis](https://github.com/en1gma-workspace/si-administrator/security/advisories/new)
 (laporan privat GitHub). Sertakan versi aplikasi, langkah untuk mengulang, dan dampaknya.
 
 Perkiraan tanggapan: konfirmasi dalam 3 hari kerja, rencana perbaikan dalam 14 hari untuk celah yang terkonfirmasi.
